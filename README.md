@@ -44,16 +44,16 @@ Kurulum yapmadan önce temaya ait çekilmiş olan videoları ve fotoğrafları i
 
 
 <div align="center">
-<img src="https://github.com/KeReM0699/luci-theme/blob/root/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-4.png" alt="Luci Theme Preview">
-<img src="https://github.com/KeReM0699/luci-theme/blob/root/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-3.png" alt="Luci Theme Preview">
-<img src="https://github.com/KeReM0699/luci-theme/blob/root/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-1.png" alt="Luci Theme Preview">
-<img src="https://github.com/KeReM0699/luci-theme/blob/root/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-2.png" alt="Luci Theme Preview">
-<img src="https://github.com/KeReM0699/luci-theme/blob/root/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-5.png" alt="Luci Theme Preview">
-<img src="https://github.com/KeReM0699/luci-theme/blob/root/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-6.png" alt="Luci Theme Preview">
-<img src="https://github.com/KeReM0699/luci-theme/blob/root/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-7.png" alt="Luci Theme Preview">
-<img src="https://github.com/KeReM0699/luci-theme/blob/root/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-8.png" alt="Luci Theme Preview">
-<img src="https://github.com/KeReM0699/luci-theme/blob/root/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-9.png" alt="Luci Theme Preview">
-<img src="https://github.com/KeReM0699/luci-theme/blob/root/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-10.png" alt="Luci Theme Preview">
+<img src="https://raw.githubusercontent.com/KeReM0699/OpenWrt-Luci-PrimeOS-Temasi--OpenWrt-Luci-Theme-PrimeOS-Turkish-TR/refs/heads/main/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-4.png" alt="Luci Theme Preview">
+<img src="https://raw.githubusercontent.com/KeReM0699/OpenWrt-Luci-PrimeOS-Temasi--OpenWrt-Luci-Theme-PrimeOS-Turkish-TR/refs/heads/main/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-3.png" alt="Luci Theme Preview">
+<img src="https://raw.githubusercontent.com/KeReM0699/OpenWrt-Luci-PrimeOS-Temasi--OpenWrt-Luci-Theme-PrimeOS-Turkish-TR/refs/heads/main/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-1.png" alt="Luci Theme Preview">
+<img src="https://raw.githubusercontent.com/KeReM0699/OpenWrt-Luci-PrimeOS-Temasi--OpenWrt-Luci-Theme-PrimeOS-Turkish-TR/refs/heads/main/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-2.png" alt="Luci Theme Preview">
+<img src="https://raw.githubusercontent.com/KeReM0699/OpenWrt-Luci-PrimeOS-Temasi--OpenWrt-Luci-Theme-PrimeOS-Turkish-TR/refs/heads/main/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-5.png" alt="Luci Theme Preview">
+<img src="https://raw.githubusercontent.com/KeReM0699/OpenWrt-Luci-PrimeOS-Temasi--OpenWrt-Luci-Theme-PrimeOS-Turkish-TR/refs/heads/main/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-6.png" alt="Luci Theme Preview">
+<img src="https://raw.githubusercontent.com/KeReM0699/OpenWrt-Luci-PrimeOS-Temasi--OpenWrt-Luci-Theme-PrimeOS-Turkish-TR/refs/heads/main/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-7.png" alt="Luci Theme Preview">
+<img src="https://raw.githubusercontent.com/KeReM0699/OpenWrt-Luci-PrimeOS-Temasi--OpenWrt-Luci-Theme-PrimeOS-Turkish-TR/refs/heads/main/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-8.png" alt="Luci Theme Preview">
+<img src="https://raw.githubusercontent.com/KeReM0699/OpenWrt-Luci-PrimeOS-Temasi--OpenWrt-Luci-Theme-PrimeOS-Turkish-TR/refs/heads/main/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-9.png" alt="Luci Theme Preview">
+<img src="https://raw.githubusercontent.com/KeReM0699/OpenWrt-Luci-PrimeOS-Temasi--OpenWrt-Luci-Theme-PrimeOS-Turkish-TR/refs/heads/main/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/photo-10.png" alt="Luci Theme Preview">
 </div>
 
 ## 🌟🌟 ** Login Ekranı Arayüz Görünümü ** 🌟🌟
