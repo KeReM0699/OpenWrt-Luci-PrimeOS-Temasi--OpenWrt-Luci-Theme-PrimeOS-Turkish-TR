@@ -58,7 +58,7 @@ Kurulum yapmadan önce temaya ait çekilmiş olan videoları ve fotoğrafları i
 
 ## 🌟🌟 ** Login Ekranı Arayüz Görünümü ** 🌟🌟
 
-<img src="https://github.com/KeReM0699/luci-theme/blob/root/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/Logon%20Photo.png" alt="Luci Theme Preview">
+<img src="https://raw.githubusercontent.com/KeReM0699/OpenWrt-Luci-PrimeOS-Temasi--OpenWrt-Luci-Theme-PrimeOS-Turkish-TR/refs/heads/main/Aray%C3%BCze%20Ait%20Foto%C4%9Fraflar/Logon%20Photo.png" alt="Luci Theme Preview">
 
 
 
